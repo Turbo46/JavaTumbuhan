@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PohonPisang
+comment1.params=
+comment1.target=PohonPisang()
+comment2.params=
+comment2.target=void\ fotosintesis()
+comment3.params=
+comment3.target=void\ tumbuhDaun()
+comment4.params=
+comment4.target=void\ rontokDaun()
+comment5.params=umur
+comment5.target=java.util.ArrayList\ berbuah(int)
+comment6.params=harga
+comment6.target=void\ setHarga(int)
+comment7.params=
+comment7.target=int\ getHarga()
+comment8.params=umur
+comment8.target=java.lang.String\ dailyRoutine(int)
+numComments=9

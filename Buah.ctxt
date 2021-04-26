@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Buah
+comment1.params=umur
+comment1.target=Buah(int)
+comment2.params=umur
+comment2.target=void\ ubahRasa(int)
+numComments=3
